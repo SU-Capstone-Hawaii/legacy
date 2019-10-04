@@ -1,2 +1,2 @@
-#Team Hawaii
+# Team Hawaii
 SU FQ19 Capstone Project
